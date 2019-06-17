@@ -1,0 +1,16 @@
+body{margin: 5%; text-align: center;}
+/* NAVIGATION */
+.logo-image{padding-bottom: 2%;}
+.navbar{padding: 0 0 2rem;font-family: 'Montserrat', sans-serif;}
+.nav-item{padding: 0px 18px;font-family: 'Montserrat', sans-serif;}
+.navbar-nav {float:none; margin: 0 auto; display: block; text-align: center;}
+.navbar-nav > li {display: inline-block; float:none;}
+.fas{padding-top:1.5rem; padding-bottom: 2.5rem; padding-left: 1rem; padding-right: 1rem;}
+/* ABOUT SECTION */
+.about-title{font-family: 'Playfair Display', serif; margin-bottom: 2.5rem;}
+.about-body{font-family: 'Quicksand', sans-serif;}
+
+/* Contact Section */
+.contact-main{padding-top:1rem;}
+/* Social Section */
+.fab{color: blue;}
